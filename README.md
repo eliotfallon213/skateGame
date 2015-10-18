@@ -11,8 +11,6 @@ After playing around with PhysicsJS in one of my other repos, I attended a works
 The game so far is in a rudimentary state, but in my next step I'd like to combine a Physics engine to determine the position of the sprites.
 
 ##Installation
-
-##Installation
 - To install the application first clone the repository. 
 - Then open a CLI inside the directory you have cloned it to.
 - Install the Node modules (```npm install```).
